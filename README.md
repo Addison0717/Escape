@@ -1,6 +1,7 @@
 # Escape
 
 A short story by Josh Passion
+
 Animations and code by Addison Schultz
 
 Main site found at: https://addison0717.github.io/escape
